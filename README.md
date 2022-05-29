@@ -2,4 +2,4 @@
  Meu Portfólio
 
 * Aplicação desenvolvida com Angular
-HTML, SCSS & JavaScript
+HTML, SCSS & TypScript
